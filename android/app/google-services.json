@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041212250980",
+    "project_id": "nagrikapp-5a2ee",
+    "storage_bucket": "nagrikapp-5a2ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041212250980:android:018a0344cf99d123c67871",
+        "android_client_info": {
+          "package_name": "com.example.nagrik_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrhbbpCz8pmnaXi6Cy5B7tj_7FV2Prxq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
